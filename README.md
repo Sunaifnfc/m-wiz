@@ -58,7 +58,7 @@ M-wiz is a bash based script which is officially made for metasploit-framework u
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/m-wiz`
+* `git clone https://github.com/sunaif-adkar/m-wiz.git`
 * `cd $HOME`
 * `ls`
 * `cd m-wiz`
