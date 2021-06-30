@@ -1,4 +1,4 @@
-#SCRIPT BY N17R0 DONT TRY TO COPY OR MODIFY 
+#SCRIPT BY SUNAIF ADKAR DONT TRY TO COPY OR MODIFY 
 #M-WIZ TOOL FOR ALL METASPLOIT THINGS
 #data/data/com.termux/files/usr/bin/bash
 #colours
@@ -58,9 +58,9 @@ echo -e "$red
                        ╚═╝     ╚═╝       ╚══╝╚══╝ ╚═╝╚══════╝ 
                                                    v 1.3$rset"
 echo " "                                                          
-echo -e "$red                                ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                                ⫸$ylo  Noob Hackers $red ⫷$rset"
-echo -e "$red                          ⫸$grn  github.com/noob-hackers $red⫷$rset"
+echo -e "$red                                ▶ Coded by$grn sunaif_adkar$red ◀$rset"
+echo -e "$red                                ⫸$ylo  Easy Hackers $red ⫷$rset"
+echo -e "$red                          ⫸$grn  github.com/sunaif-adkar $red⫷$rset"
 echo " "
 echo " "
 echo -e "$pink                       >>>  [ click ENTER to continue ] <<<$rset"
