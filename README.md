@@ -89,12 +89,12 @@ __EXIT__ :
 
 ## WATCH VIDEO [Termux]
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
+[![des](CLICK HERE TO WATCH VIDEO](https://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA)
 
 ## CONNECT WITH US :
 
 
-<a href="https://GitHub.sunaif-adkar.com"><img title="Github" src="https://img.shields.io/badge/sunaif-adlar,-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sunaif-adkar"><img title="Github" src="https://img.shields.io/badge/sunaif-adkar,-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/sunaif_adkar?utm_medium=copy_link)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/gappi.gappifish)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/sunaif_adkar)
