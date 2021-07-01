@@ -89,7 +89,7 @@ __EXIT__ :
 
 ## WATCH VIDEO [Termux]
 
-[![des](CLICK HERE TO WATCH VIDEO](https://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA)
+[CLICK HERE TO WATCH VIDEO](https://youtu.be/qdOl_LDPl90)
 
 ## CONNECT WITH US :
 
