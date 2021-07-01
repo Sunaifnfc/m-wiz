@@ -26,12 +26,12 @@ echo -e "
  ┃SHARE        ┃ $grn$cod KERNEL=$o"$krn"$grn
  ┃             ┃ $grn$cod IPV4=$o"$ip"$grn
  ┃THANK YOU FOR┃ ------------------------------------
- ┃ USING M-WIZ ┃ |$grn FOLLLOW:$cod github.com/noob-hackers $grn|$grn
- ┃             ┃ |$grn SUBSCRIBE:$cod Noob Hackers          $grn|$grn
- ┃             ┃ |$grn CHAT:$cod wa.me/+919113948054        $grn|$grn
+ ┃ USING M-WIZ ┃ |$grn FOLLLOW:$cod github.com/sunaif-adkar $grn|$grn
+ ┃             ┃ |$grn SUBSCRIBE:$cod SA OFFICIALL          $grn|$grn
+ ┃             ┃ |$grn CHAT:$cod https://wa.me/+8615874921634        $grn|$grn
  ┃  ( ͡❛ ͜ʖ ͡❛)   ┃ ------------------------------------$grn
  ┃             ┃
- ┃ Noob Hackers┃ $blu METASPLOIT REQUIRES$grn 1GB$blu STORAGE $grn
+ ┃ sunaif adkar┃ $blu METASPLOIT REQUIRES$grn 1GB$blu STORAGE $grn
  ┃━━━━━ ○ ━━━━━┃ $blu AND$grn 500MB$blu DATA $grn(V.$msf)$grn
  ╰━━━━━━━━━━━━━╯ $blu INSTALLATION MAY TAKE ($o 40 MINUTES$blu)$grn
 "
@@ -107,7 +107,7 @@ bundle update >/dev/null 2>&1
 else
 echo
 fi
-git clone https://github.com/noob-hackers/bcp >/dev/null 2>&1
+git clone https://github.com/sunaif-adkar/bcp >/dev/null 2>&1
 wget https://github.com/termux/termux-packages/files/2912002/fix-ruby-bigdecimal.sh.txt >/dev/null 2>&1
 bash fix-ruby-bigdecimal.sh.txt >/dev/null 2>&1
 cd $loc
