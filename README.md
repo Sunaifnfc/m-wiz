@@ -85,12 +85,7 @@ __EXIT__ :
 - From this option you can exit from m-wiz tool
 
 ## SCREEN SHOTS [Termux]
-
-<br>
-<p align="center">
-<img width="45%" src="https://user-images.githubusercontent.com/49580304/96562359-8a8e7e80-1275-11eb-8a49-818f8a6b793f.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96562367-8c584200-1275-11eb-80e5-11d9013e39a4.jpg"/>
-</p>
+ CURRENTLY UNAVAILABLE 😊
 
 ## WATCH VIDEO [Termux]
 
@@ -99,17 +94,17 @@ __EXIT__ :
 ## CONNECT WITH US :
 
 
-<a href="https://rebrand.ly/githubprof"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://rebrand.ly/insgrm)
-[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://rebrand.ly/fsbpage)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://rebrand.ly/telegramchnl)
-[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://rebrand.ly/hckrgroups)
+<a href="https://GitHub.sunaif-adkar.com"><img title="Github" src="https://img.shields.io/badge/sunaif-adlar,-brightgreen?style=for-the-badge&logo=github"></a>
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://instagram.com/sunaif_adkar?utm_medium=copy_link)
+[![Instagram](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/gappi.gappifish)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/sunaif_adkar)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT)
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-sa officiall-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="sunaif-adkar" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="https://www.paypal.me/sunaifadkar"><img title="sunaif-adkar" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
 </p>
 
 ## WARNING : 
