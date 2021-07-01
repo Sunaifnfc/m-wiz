@@ -3,7 +3,7 @@
 #data/data/com.termux/files/usr/bin/bash
 #colours
 check(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/m-wiz/master/update.v1.4 2>/dev/null; then
+if wget --sunaif-adkar https://github.com/sunaif-adkar/m-wiz.git 2>/dev/null; then
 cd $HOME/m-wiz/core/upd
 echo "meta" > update.txt
 else
@@ -21,7 +21,7 @@ fi
 }
 option
 check1(){
-if wget --spider https://raw.githubusercontent.com/noob-hackers/patchupdateznh/main/m-wiz.v.1 2>/dev/null; then
+if wget --sunaif-adkar https://github.com/sunaif-adkar/m-wiz.git 2>/dev/null; then
 cd $HOME/m-wiz/core/upd
 echo "meta" > patch.txt
 else
